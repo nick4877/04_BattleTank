@@ -8,3 +8,11 @@ An open world head to head tank fight with simple AI, terrain, UI, and avanced c
 * fully rigged and animated tank with moving tracks(Strech goal)
 * More Advanced AI
 * More realistic Texturs
+
+***
+## Possible Features (After first release)
+* Online MutiPlayer
+* Upgradable tanks
+* Different skins
+* ranking system
+* Leaderboards
