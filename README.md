@@ -3,6 +3,6 @@ An open world head to head tank fight with simple AI, terrain, and avanced contr
 
 ***
 ## Planned Features
-*Open world
-*Simple art style (At first)
-*fully rigged and animated tank with moving tracks(Strech goal)
+* Open world
+* Simple art style (At first)
+* fully rigged and animated tank with moving tracks(Strech goal)
