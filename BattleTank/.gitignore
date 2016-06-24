@@ -1,5 +1,7 @@
 *.VC.db
 
+!.uasset
+
 # Compiled Object files
 *.slo
 *.lo
